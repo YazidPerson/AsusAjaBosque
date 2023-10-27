@@ -1,0 +1,211 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(238, 238, 238);
+}
+.nav{
+    font-weight: bold;
+}
+.nav .navbarutama img{
+    margin-top: 5px;
+    margin-left: 75px;
+}
+.nav .navbarutama{
+    background-color: white;
+    display: flex;
+    font-size: 20px;
+    height: 40px;
+    color: black;
+    position: fixed;
+    width: 100%;
+}
+.nav .hr1{
+    background-color: black;
+    height: 86px;
+    position: fixed;
+    width: 100%;
+}
+
+.nav .navbarutama h1{
+    margin-left: 75px;
+    margin-top: 2px;
+    font-weight:700;
+    font-size: 30px;
+}
+.nav .navbarkedua{
+    background-color: white;
+    display: flex;
+    font-size: 15px;
+    height: 40px;
+    align-items: center;
+    margin-top: -17px;
+    position: fixed;
+    margin-top: 45px;
+    width: 100%;
+}
+.nav .navbarkedua a{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+}
+.nav .navbarkedua img{
+    margin-left: 30px;
+}
+.nav .navbarkedua .support{
+    margin-left: 120px;
+}
+.nav .checkbox .list{
+    font-weight: 300;
+    background-color: white;
+    width: 300px;
+    height: 1640px;
+    margin-left: 150px;
+    border-radius: 15px;
+    margin-top: 70px;
+    flex-direction: column;
+}
+.nav .checkbox{
+    display: flex;
+}
+.nav .checkbox .image{
+    margin-left: 100px;
+}
+
+.nav .checkbox .list li{
+    list-style: none;
+    margin-top: 10px;
+    margin-left: -25px;
+}
+.nav .checkbox .list h4{
+    margin-left: 18px;
+}
+.nav .checkbox .image{
+    font-weight: 300;
+}
+.nav .checkbox .image .Laptop1{
+    display: flex;
+}
+.nav .checkbox .image .font{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 60px;
+    font-size: 20px;
+}
+.nav .checkbox .image .font p{
+    margin-top: -15px;
+    margin-left: -40px;
+}
+.nav .checkbox .image .PP1{
+    margin-top: 70px;
+    border-radius: 20px;
+    margin-left: -90px;
+    background-color: white;
+    width: 450px;
+    height: 400px;
+    text-align: center;
+}
+.nav .checkbox .image .See{
+    text-decoration: none;
+    color: blue;
+}
+.nav .checkbox .image .See:hover{
+    text-decoration: underline;
+}
+.nav .checkbox .image .Link1{
+    text-decoration: none;
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: blue;
+}
+.nav .checkbox .image h1{
+    font-weight: 300;
+}
+.nav .checkbox .image .PP2{
+    margin-top: 70px;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color: white;
+    width: 450px;
+    height: 400px;
+    text-align: center;
+}
+.nav .checkbox .image .Laptop2{
+    margin-top: -75px;
+    display: flex;
+}
+.nav .checkbox .image .Laptop3{
+    margin-top: -75px;
+    display: flex;
+}
+.nav .Footer{
+    width: 100%;
+    height: 750px;
+    background-color: rgb(238, 238, 238);
+    margin-top: 125px;
+}
+.nav .Footer .MainFooter{
+    display: flex;
+}
+.nav .Footer .MainFooter p{
+    margin-left: 80px;
+
+}
+.nav .Footer .MainFooter ol li, .nav .Footer .MainFooter ol li a{
+    list-style: none;
+    color: black;
+    text-decoration: none;
+    font-weight: 200;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.nav .Footer .MainFooter ol li a:hover{
+    text-decoration: underline;
+}
+.nav .Footer .Mainfooter .Footer1{
+    flex-direction: column;
+}
+.nav .Footer .MainFooter .Footer2{
+    flex-direction: column;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.nav .Footer .MainFooter .Footer3{
+    flex-direction: column;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.nav .Footer .MainFooter .Footer4{
+    flex-direction: column;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.nav .Footer .MainFooter .Footer5{
+    flex-direction: column;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.nav .Footer .MainFooter .Footer6{
+    flex-direction: column;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.nav .Footer .Copy{
+    margin-left: 150px;
+    font-weight: 300;
+    display: flex;
+}
+.nav .Footer .Copy a{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+    margin-top: 17px;
+}
+.nav .Footer .Copy a:hover{
+    text-decoration: underline;
+}
+.nav .Footer .Copy .End{
+    margin-left: 500px;
+}
